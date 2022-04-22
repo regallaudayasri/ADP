@@ -1,0 +1,41 @@
+body {
+  color: grey;
+}
+
+ul {
+  list-style: none;
+}
+
+.loader {
+  margin: 10px;
+}
+
+.App {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchField {
+  margin: 10px 0;
+}
+
+.accoridion-summary {
+  min-height: 40px;
+}
+
+.accoridion-summary .MuiAccordionSummary-content {
+  margin: 5px 0;
+}
+
+.content {
+  background-color: whitesmoke;
+  border: 2px solid #f8f1f1;
+}
+
+.contact {
+  margin: 0;
+}
